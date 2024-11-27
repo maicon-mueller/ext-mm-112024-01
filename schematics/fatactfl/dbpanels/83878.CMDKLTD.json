@@ -1,0 +1,210 @@
+{
+  "identifier" : "CMDKLTD",
+  "migrations" : [ {
+    "op" : "replace",
+    "path" : "/allAttributes/:21",
+    "value" : "CD_ESTABELECIMENTO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:22",
+    "value" : "DT_ATUALIZACAO"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:23",
+    "value" : "DT_ATUALIZACAO_NREC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:25",
+    "value" : "NM_USUARIO_NREC"
+  }, {
+    "op" : "replace",
+    "path" : "/allAttributes/:26",
+    "value" : "NR_SEQUENCIA"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856755/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856756/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856753/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856754/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856759/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856759/ieTipoDate",
+    "value" : "DH"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856757/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856758/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856758/ieTipoDate",
+    "value" : "DH"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856762/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856741/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856763/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856760/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856761/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856744/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856766/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:693856767/gridLabel"
+  }, {
+    "op" : "remove",
+    "path" : "/attributes/code:693856767/gridLabelExpressionCode"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856767/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856767/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856745/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856742/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856764/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856764/binds",
+    "value" : [ "CD_ESTABELECIMENTO" ]
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856764/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856743/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856765/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856765/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856748/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856748/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856749/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856749/binds",
+    "value" : [ "CD_MEDICO", "CD_ESTABELECIMENTO" ]
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856749/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856768/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856746/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856747/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856747/nmAtributoCd",
+    "value" : "NR_ATENDIMENTO"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856747/nmAtributoDs",
+    "value" : "DS"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856747/nmTabelaRef",
+    "value" : "ATENDIMENTO_PACIENTE"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856747/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856751/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856751/binds",
+    "value" : [ "CD_MEDIC" ]
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856751/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856752/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856752/qtDecimais",
+    "value" : 0
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:693856750/logOptions/logUpdates",
+    "value" : "N"
+  }, {
+    "op" : "remove",
+    "path" : "/signatureValues"
+  } ],
+  "type" : "PARTNER"
+}
